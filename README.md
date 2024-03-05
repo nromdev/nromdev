@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nromdev (Néstor Romero)
-- 🌱 I’m currently learning Elixir - https://github.com/elixir-lang
 - 📫 How to reach me: nromdev@gmail.com
 
 <!---
